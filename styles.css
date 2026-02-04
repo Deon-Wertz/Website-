@@ -1,0 +1,17 @@
+body{
+    color: rgb(79, 79, 142);
+    background-color: lightskyblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+}
+p{
+    font-size: 50px;
+    font-weight: italic-bold;
+
+}
